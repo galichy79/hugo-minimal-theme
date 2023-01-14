@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Юрий Галич
-name_pronunciation: Юрий Галич
+title: Кирилл Проявка
+name_pronunciation: Кирилл Проявка
 
 # Is this the primary user of the site?
 superuser: true
