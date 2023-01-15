@@ -34,7 +34,7 @@ social:
     link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/spacex/
+    link: https://www.instagram.com/kirillproiavka/
   - icon: weibo
     icon_pack: fab
     link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
